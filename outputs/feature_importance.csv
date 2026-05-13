@@ -1,0 +1,43 @@
+Product_Name,Feature,Importance
+CNC Machine Parts,Rainfall_Index,0.0232
+CNC Machine Parts,Industrial_Index,0.7581
+CNC Machine Parts,Diesel_Price,0.1134
+CNC Machine Parts,Steel_Price,0.0942
+CNC Machine Parts,Govt_Subsidy_Flag,0.0098
+CNC Machine Parts,Festival_Flag,0.0014
+CNC Parts Assembly,Rainfall_Index,0.0282
+CNC Parts Assembly,Industrial_Index,0.6233
+CNC Parts Assembly,Diesel_Price,0.2051
+CNC Parts Assembly,Steel_Price,0.133
+CNC Parts Assembly,Govt_Subsidy_Flag,0.0082
+CNC Parts Assembly,Festival_Flag,0.0022
+Front Bumper Tractor,Rainfall_Index,0.071
+Front Bumper Tractor,Industrial_Index,0.2249
+Front Bumper Tractor,Diesel_Price,0.0568
+Front Bumper Tractor,Steel_Price,0.5534
+Front Bumper Tractor,Govt_Subsidy_Flag,0.0849
+Front Bumper Tractor,Festival_Flag,0.0091
+Linkage Pins,Rainfall_Index,0.0294
+Linkage Pins,Industrial_Index,0.3334
+Linkage Pins,Diesel_Price,0.0272
+Linkage Pins,Steel_Price,0.5812
+Linkage Pins,Govt_Subsidy_Flag,0.0214
+Linkage Pins,Festival_Flag,0.0075
+Tractor Front Axle Bracket,Rainfall_Index,0.017
+Tractor Front Axle Bracket,Industrial_Index,0.346
+Tractor Front Axle Bracket,Diesel_Price,0.0332
+Tractor Front Axle Bracket,Steel_Price,0.582
+Tractor Front Axle Bracket,Govt_Subsidy_Flag,0.0199
+Tractor Front Axle Bracket,Festival_Flag,0.0019
+Tractor Linkage Balls,Rainfall_Index,0.0249
+Tractor Linkage Balls,Industrial_Index,0.2252
+Tractor Linkage Balls,Diesel_Price,0.0309
+Tractor Linkage Balls,Steel_Price,0.6834
+Tractor Linkage Balls,Govt_Subsidy_Flag,0.0333
+Tractor Linkage Balls,Festival_Flag,0.0022
+Tractor Linkage Ends,Rainfall_Index,0.052
+Tractor Linkage Ends,Industrial_Index,0.3437
+Tractor Linkage Ends,Diesel_Price,0.1248
+Tractor Linkage Ends,Steel_Price,0.4296
+Tractor Linkage Ends,Govt_Subsidy_Flag,0.0365
+Tractor Linkage Ends,Festival_Flag,0.0133

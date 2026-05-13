@@ -1,0 +1,85 @@
+Date,Product_Name,Category,Actual_Sales,Forecast_Sales,Model_Used
+2025-01-01,CNC Machine Parts,CNC,1649.0,1612.54,ARIMAX
+2025-02-01,CNC Machine Parts,CNC,1653.0,1619.94,ARIMAX
+2025-03-01,CNC Machine Parts,CNC,1633.0,1616.16,ARIMAX
+2025-04-01,CNC Machine Parts,CNC,1662.0,1579.23,ARIMAX
+2025-05-01,CNC Machine Parts,CNC,1777.0,1568.08,ARIMAX
+2025-06-01,CNC Machine Parts,CNC,1713.0,1599.39,ARIMAX
+2025-07-01,CNC Machine Parts,CNC,1638.0,1570.18,ARIMAX
+2025-08-01,CNC Machine Parts,CNC,1567.0,1553.11,ARIMAX
+2025-09-01,CNC Machine Parts,CNC,1508.0,1531.31,ARIMAX
+2025-10-01,CNC Machine Parts,CNC,1535.0,1569.52,ARIMAX
+2025-11-01,CNC Machine Parts,CNC,1549.0,1571.52,ARIMAX
+2025-12-01,CNC Machine Parts,CNC,1738.0,1633.83,ARIMAX
+2025-01-01,CNC Parts Assembly,CNC,1720.0,1562.24,ARIMA
+2025-02-01,CNC Parts Assembly,CNC,1787.0,1566.46,ARIMA
+2025-03-01,CNC Parts Assembly,CNC,1672.0,1564.8,ARIMA
+2025-04-01,CNC Parts Assembly,CNC,1767.0,1565.45,ARIMA
+2025-05-01,CNC Parts Assembly,CNC,1697.0,1565.2,ARIMA
+2025-06-01,CNC Parts Assembly,CNC,1625.0,1565.3,ARIMA
+2025-07-01,CNC Parts Assembly,CNC,1616.0,1565.26,ARIMA
+2025-08-01,CNC Parts Assembly,CNC,1650.0,1565.27,ARIMA
+2025-09-01,CNC Parts Assembly,CNC,1538.0,1565.27,ARIMA
+2025-10-01,CNC Parts Assembly,CNC,1704.0,1565.27,ARIMA
+2025-11-01,CNC Parts Assembly,CNC,1644.0,1565.27,ARIMA
+2025-12-01,CNC Parts Assembly,CNC,1787.0,1565.27,ARIMA
+2025-01-01,Front Bumper Tractor,Tractor,1273.0,1292.94,SARIMA
+2025-02-01,Front Bumper Tractor,Tractor,1485.0,1197.75,SARIMA
+2025-03-01,Front Bumper Tractor,Tractor,1429.0,1424.82,SARIMA
+2025-04-01,Front Bumper Tractor,Tractor,1572.0,1602.53,SARIMA
+2025-05-01,Front Bumper Tractor,Tractor,1521.0,1548.19,SARIMA
+2025-06-01,Front Bumper Tractor,Tractor,1210.0,1103.94,SARIMA
+2025-07-01,Front Bumper Tractor,Tractor,1026.0,1036.77,SARIMA
+2025-08-01,Front Bumper Tractor,Tractor,1082.0,911.3,SARIMA
+2025-09-01,Front Bumper Tractor,Tractor,1079.0,973.5,SARIMA
+2025-10-01,Front Bumper Tractor,Tractor,1526.0,1241.96,SARIMA
+2025-11-01,Front Bumper Tractor,Tractor,1553.0,1334.39,SARIMA
+2025-12-01,Front Bumper Tractor,Tractor,1356.0,1078.39,SARIMA
+2025-01-01,Linkage Pins,Tractor,1593.0,1681.16,SARIMA
+2025-02-01,Linkage Pins,Tractor,1650.0,1647.93,SARIMA
+2025-03-01,Linkage Pins,Tractor,1776.0,1784.85,SARIMA
+2025-04-01,Linkage Pins,Tractor,1942.0,1928.47,SARIMA
+2025-05-01,Linkage Pins,Tractor,1658.0,1763.51,SARIMA
+2025-06-01,Linkage Pins,Tractor,1574.0,1485.2,SARIMA
+2025-07-01,Linkage Pins,Tractor,1379.0,1494.12,SARIMA
+2025-08-01,Linkage Pins,Tractor,1348.0,1265.64,SARIMA
+2025-09-01,Linkage Pins,Tractor,1176.0,1364.82,SARIMA
+2025-10-01,Linkage Pins,Tractor,1731.0,1620.46,SARIMA
+2025-11-01,Linkage Pins,Tractor,1725.0,1670.58,SARIMA
+2025-12-01,Linkage Pins,Tractor,1669.0,1628.55,SARIMA
+2025-01-01,Tractor Front Axle Bracket,Tractor,2100.0,2026.4,SARIMA
+2025-02-01,Tractor Front Axle Bracket,Tractor,2233.0,2208.91,SARIMA
+2025-03-01,Tractor Front Axle Bracket,Tractor,2267.0,2255.15,SARIMA
+2025-04-01,Tractor Front Axle Bracket,Tractor,2388.0,2413.91,SARIMA
+2025-05-01,Tractor Front Axle Bracket,Tractor,2239.0,2252.97,SARIMA
+2025-06-01,Tractor Front Axle Bracket,Tractor,1971.0,2055.12,SARIMA
+2025-07-01,Tractor Front Axle Bracket,Tractor,1797.0,2009.15,SARIMA
+2025-08-01,Tractor Front Axle Bracket,Tractor,1805.0,1788.06,SARIMA
+2025-09-01,Tractor Front Axle Bracket,Tractor,1673.0,1696.16,SARIMA
+2025-10-01,Tractor Front Axle Bracket,Tractor,2027.0,2148.79,SARIMA
+2025-11-01,Tractor Front Axle Bracket,Tractor,2331.0,2293.52,SARIMA
+2025-12-01,Tractor Front Axle Bracket,Tractor,2208.0,2061.31,SARIMA
+2025-01-01,Tractor Linkage Balls,Tractor,1560.0,1543.72,SARIMAX
+2025-02-01,Tractor Linkage Balls,Tractor,1515.0,1593.11,SARIMAX
+2025-03-01,Tractor Linkage Balls,Tractor,1770.0,1760.52,SARIMAX
+2025-04-01,Tractor Linkage Balls,Tractor,1919.0,1799.04,SARIMAX
+2025-05-01,Tractor Linkage Balls,Tractor,1829.0,1728.48,SARIMAX
+2025-06-01,Tractor Linkage Balls,Tractor,1494.0,1432.14,SARIMAX
+2025-07-01,Tractor Linkage Balls,Tractor,1349.0,1239.18,SARIMAX
+2025-08-01,Tractor Linkage Balls,Tractor,1245.0,1150.84,SARIMAX
+2025-09-01,Tractor Linkage Balls,Tractor,1324.0,1256.22,SARIMAX
+2025-10-01,Tractor Linkage Balls,Tractor,1547.0,1636.21,SARIMAX
+2025-11-01,Tractor Linkage Balls,Tractor,1720.0,1711.23,SARIMAX
+2025-12-01,Tractor Linkage Balls,Tractor,1430.0,1545.18,SARIMAX
+2025-01-01,Tractor Linkage Ends,Tractor,1445.0,1329.82,SARIMA
+2025-02-01,Tractor Linkage Ends,Tractor,1480.0,1153.05,SARIMA
+2025-03-01,Tractor Linkage Ends,Tractor,1527.0,1036.64,SARIMA
+2025-04-01,Tractor Linkage Ends,Tractor,1690.0,1833.24,SARIMA
+2025-05-01,Tractor Linkage Ends,Tractor,1635.0,1465.72,SARIMA
+2025-06-01,Tractor Linkage Ends,Tractor,1266.0,1123.95,SARIMA
+2025-07-01,Tractor Linkage Ends,Tractor,1035.0,1030.17,SARIMA
+2025-08-01,Tractor Linkage Ends,Tractor,1164.0,1120.44,SARIMA
+2025-09-01,Tractor Linkage Ends,Tractor,1185.0,1222.6,SARIMA
+2025-10-01,Tractor Linkage Ends,Tractor,1409.0,1283.0,SARIMA
+2025-11-01,Tractor Linkage Ends,Tractor,1458.0,1426.6,SARIMA
+2025-12-01,Tractor Linkage Ends,Tractor,1282.0,1148.5,SARIMA
