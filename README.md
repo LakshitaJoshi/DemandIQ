@@ -8,7 +8,7 @@ A production-grade demand forecasting dashboard for manufacturing companies. Com
 
 ## Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app.streamlit.app](https://demandiq-tdnrvdyeytuxj9wxvstgwk.streamlit.app/))
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://demandiq-tdnrvdyeytuxj9wxvstgwk.streamlit.app/))
 
 ---
 
