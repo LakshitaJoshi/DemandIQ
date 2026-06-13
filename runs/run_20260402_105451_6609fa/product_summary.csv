@@ -1,8 +1,0 @@
-Product_Name,Category,Final_Model,Final_MAPE,Avg_Historical_Sales,Avg_Forecast_Sales,Forecast_Growth_Percent,Demand_Level,Avg_Margin_Percentage,Margin_Band,Risk_Level,Inventory_Action,Priority_Score,Safety_Stock,Reorder_Point,Expected_Annual_Revenue,Expected_Annual_Cost,Expected_Annual_Gross_Margin,Recommendation
-CNC Machine Parts,CNC,ARIMAX,3.74,1257.82,1642.48,30.58,High,34.02,High Margin,Low Risk,Increase Production,1210.4,574.81,1832.62,51678815.35,35017255.09,16661560.26,Increase Production
-CNC Parts Assembly,CNC,ARIMA,7.18,1315.25,1565.09,19.0,Moderate,34.01,High Margin,Moderate Risk,Maintain Production,1038.67,598.05,1913.3,55314475.15,37485220.58,17829254.58,Maintain Production
-Front Bumper Tractor,Tractor,SARIMA,9.455,991.15,1228.87,23.98,Low,30.01,High Margin,Moderate Risk,Controlled Inventory,896.99,595.68,1586.84,25923968.22,18620979.02,7302989.21,Controlled Inventory
-Linkage Pins,Tractor,SARIMA,5.111,1178.9,1611.28,36.68,Moderate,29.95,Moderate Margin,Moderate Risk,Maintain Production,1236.73,685.04,1863.94,31021461.07,22287852.56,8733608.52,Maintain Production
-Tractor Front Axle Bracket,Tractor,SARIMA,3.289,1546.32,2100.79,35.86,High,30.01,High Margin,Low Risk,Increase Production,1482.58,870.44,2416.77,44164789.47,31741375.82,12423413.65,Increase Production
-Tractor Linkage Balls,Tractor,SARIMAX,4.815,1096.52,1623.97,48.1,High,30.01,High Margin,Low Risk,Increase Production,1358.94,706.27,1802.79,30741438.85,22081689.77,8659749.08,Increase Production
-Tractor Linkage Ends,Tractor,SARIMA,10.093,965.55,1264.48,30.96,Low,29.98,Moderate Margin,High Risk,Monitor Closely,981.31,638.03,1603.58,31351427.61,22506887.77,8844539.84,Monitor Closely

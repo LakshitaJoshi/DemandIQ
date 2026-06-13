@@ -1,8 +1,0 @@
-Product_Name,Category,Baseline_Model,Baseline_MAPE,Exogenous_Model,Exogenous_MAPE,Final_Model,Final_MAPE,MAE,RMSE,Best_Model_Selected
-CNC Machine Parts,CNC,ARIMA,5.113,ARIMAX,3.74,ARIMAX,3.74,63.159,83.666,Exogenous
-CNC Parts Assembly,CNC,ARIMA,7.18,ARIMAX,8.792,ARIMA,7.18,123.373,138.949,Baseline
-Front Bumper Tractor,Tractor,SARIMA,9.455,SARIMAX,10.524,SARIMA,9.455,128.533,168.763,Baseline
-Linkage Pins,Tractor,SARIMA,5.111,SARIMAX,5.989,SARIMA,5.111,74.885,91.086,Baseline
-Tractor Front Axle Bracket,Tractor,SARIMA,3.289,SARIMAX,4.044,SARIMA,3.289,65.979,90.216,Baseline
-Tractor Linkage Balls,Tractor,SARIMA,10.193,SARIMAX,4.815,SARIMAX,4.815,72.595,82.462,Exogenous
-Tractor Linkage Ends,Tractor,SARIMA,10.093,SARIMAX,16.488,SARIMA,10.093,146.996,197.481,Baseline
